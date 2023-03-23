@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+	id="WebApp_ID" version="4.0">
+	<display-name>Onlinebanking</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+
+	<servlet>
+		<description>This is the description of my J2EE component</description>
+		<display-name>This is the display name of my J2EE component</display-name>
+		<servlet-name>CreateServlet</servlet-name>
+		<servlet-class>my.CreateServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>CreateServlet</servlet-name>
+		<url-pattern>/CreateServlet</url-pattern>
+	</servlet-mapping>
+  
+    <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>verifyLogin1</servlet-name>
+    <servlet-class>my.verifyLogin1</servlet-class>
+  </servlet>
+    <servlet-mapping>
+    <servlet-name>verifyLogin1</servlet-name>
+    <url-pattern>/verifyLogin1</url-pattern>
+  </servlet-mapping>
+  
+     <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>registereduserServlet</servlet-name>
+    <servlet-class>my.RegisterUser</servlet-class>
+  </servlet>
+    <servlet-mapping>
+    <servlet-name>registereduserServlet</servlet-name>
+    <url-pattern>/go</url-pattern>
+  </servlet-mapping>
+  
+   <listener>
+  <listener-class>my.MyListener</listener-class>
+  </listener>
+
+
+</web-app>
