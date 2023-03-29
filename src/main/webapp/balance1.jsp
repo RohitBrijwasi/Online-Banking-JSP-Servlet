@@ -140,11 +140,10 @@
 								height="106">
 						</center>
 						<br>
-						<p>Each people plan their site layouts depending upon their
-							business type. Here comes a free designer template which provides
-							you with a selection of different kinds of webdesign starting
-							from business template, fashion template, media template, Science
-							template, Arts template and much more.</p>
+						<p>In our Internet Banking customers can access the web page
+							they can login using their existing Account number and Password
+							and they will be automatically redirected to all the
+							functionality of banking.</p>
 
 					</div>
 				</td>
@@ -158,10 +157,6 @@
 
 			<div id="footer_copyright">
 
-				<center>
-					<img alt="business" width="196" height="106">
-				</center>
-				<br>
 				<p>Each people plan their site layouts depending upon their
 					business type. Here comes a free designer template which provides
 					you with a selection of different kinds of webdesign starting from

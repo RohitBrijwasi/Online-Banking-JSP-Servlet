@@ -48,9 +48,8 @@
 						<h1>Services</h1>
 						<br>
 						<ul>
-							<li><a href="#">www.javatpoint.com</a></li>
-							<li><a href="#">www.javacstpoint.com </a></li>
-							<li><a href="#">www.javatpoint.com/forum.jsp</a></li>
+							<li><a href="#">www.onlinebanking.com</a></li>
+							<li><a href="#">https://commercemates.com/features-of-e-banking/</a></li>
 						</ul>
 
 					</div>
@@ -114,15 +113,14 @@
 						e.printStackTrace();
 						}
 						%>
-					</table>
-					<%
+					</table> <%
 
-					%>
+ %>
 				
 		</table>
-		</div>
+	</div>
 
-		<%@ page import="java.sql.*"%>
-		<%@ page import="java.io.*"%>
-		<%@ page import="javax.servlet.*"%>
-		<%@ page import="my.*"%>
+	<%@ page import="java.sql.*"%>
+	<%@ page import="java.io.*"%>
+	<%@ page import="javax.servlet.*"%>
+	<%@ page import="my.*"%>
