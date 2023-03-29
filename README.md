@@ -12,20 +12,34 @@ Online Banking web pages using JSP-Servlet and Oracle XE 11g RDBMS.
 
 • Its a robust and effective web based online banking system which is having simple and easy user interface to work with.
 
-Home Page-
+Home Page:-
 ![image](https://user-images.githubusercontent.com/75301031/228586825-2c366abe-120c-44bc-b645-8cf55f71b67b.png)
 
+
+New Account web page:-
 ![image](https://user-images.githubusercontent.com/75301031/228586949-17fef839-fce7-4445-87e2-ee5d8155da14.png)
 
+
+Check Balance web page:-
 ![image](https://user-images.githubusercontent.com/75301031/228587069-094c70f1-31e8-4a9a-9beb-9ef716749a5f.png)
 
+
+Deposit web page:-
 ![image](https://user-images.githubusercontent.com/75301031/228587198-9427f9b8-6345-4eae-b550-34c7fc1943ad.png)
 
+
+Withdraw web page:-
 ![image](https://user-images.githubusercontent.com/75301031/228587285-069066e9-fcae-4c48-a815-53bfce111566.png)
 
+
+Transfer web page:-
 ![image](https://user-images.githubusercontent.com/75301031/228587366-f56b5a84-7322-4190-b636-7c90069108ef.png)
 
+
+Close account web page:-
 ![image](https://user-images.githubusercontent.com/75301031/228587486-8390a971-1c29-4933-ab3d-4c7c50ed8e5e.png)
 
+
+About Bank Static web page:-
 ![image](https://user-images.githubusercontent.com/75301031/228587583-cb3760f8-42d9-4149-85eb-7f81652ee776.png)
 
